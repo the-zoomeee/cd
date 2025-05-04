@@ -1,0 +1,6 @@
+= 5 _ a
+= 3 _ b
++ a b t1
+* t1 10 t2
+= t2 _ result
+end

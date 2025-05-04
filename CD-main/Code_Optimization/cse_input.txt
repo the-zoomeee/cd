@@ -1,0 +1,7 @@
++ a b t1
++ a b t2
+- c d t3
+- c d t4
+* t1 e t5
+* t2 e t6
+end
