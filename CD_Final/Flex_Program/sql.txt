@@ -1,0 +1,3 @@
+SELECT name, age FROM students WHERE age >= 18;
+
+INSERT INTO employees (id, name, salary) VALUES (101, 'Alice', 50000);

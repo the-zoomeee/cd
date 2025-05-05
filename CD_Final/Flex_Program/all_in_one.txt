@@ -1,0 +1,4 @@
+Hello World! This is a test file.
+It contains several words, lines, and vowels.
+Let's check how well this program counts them.
+Example string literals should not be counted as regular text.
